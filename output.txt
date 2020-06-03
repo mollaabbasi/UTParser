@@ -1,0 +1,1 @@
+(ROOT (S (VP (PP (PREP در) (NP (N سال) (NUM 96))) (VPS (NP (N دانشگاه) (N تهران)) (VP (PP (PREP با) (NP (N مرکز) (NP (N تحقیقات) (N مخابرات)))) (VP (PP (PREP در) (NP (N پروژه) (NP (N تجزیه‌گر) (ADJ نحوی)))) (MV (N همکاری) (V نمود)))))) (PUNC .)))
